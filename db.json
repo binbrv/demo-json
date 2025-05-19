@@ -1,7 +1,7 @@
 {
   "tasks": [
     { "name": "Đá bóng", "done": false, "deadline": "2025-05-12" },
-    { "name": "Làm bài tập html", "done": false, "deadline": "2025-04-11" },
+    { "name": "Làm bài tập html", "done": true, "deadline": "2025-04-11" },
     { "name": "Đánh bida", "done": false, "deadline": "2025-05-14" }
   ]
 }
